@@ -14,7 +14,6 @@ namespace View
         [STAThread]
         static void Main()
         {
-            asdf
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new Form1());
